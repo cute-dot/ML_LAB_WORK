@@ -1,3 +1,8 @@
+nltk
+webdriver-manager
+selenium
+beautifulsoup4
+requests
 linked
 df-prep
 pandas>=2.0.0
